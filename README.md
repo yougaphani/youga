@@ -1,4 +1,1 @@
-# youga
-i am doing this change for development purpose 
-doing in git hub tutorial session
-hi 
+long weeek end , devloping the git hub file to practically see the changes 
